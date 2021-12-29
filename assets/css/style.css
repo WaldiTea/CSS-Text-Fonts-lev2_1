@@ -1,0 +1,53 @@
+h1 {
+  background: #4c4c4c;
+  color: white;
+  font-family: "Tahoma";
+  font-size: 48px;
+  text-shadow: 5px 5px 0 black;
+  text-align: center;
+  padding: 10px;
+}
+
+nav,
+main,
+h2 {
+  margin: 0 25px;
+}
+
+nav p,
+main p {
+  font-family: "Lucida Sans Unicode";
+}
+
+nav p {
+  text-indent: 40px;
+  word-spacing: 15px;
+}
+
+main p {
+  text-indent: 60px;
+}
+
+h2 {
+  text-shadow: 2px 2px 0 gray;
+  letter-spacing: 10px;
+}
+
+section {
+  background: #999;
+}
+
+section p {
+  line-height: 30px;
+  margin: 15px 25px;
+}
+
+aside {
+  background: #333;
+}
+
+aside p {
+  color: white;
+  line-height: 40px;
+  margin: 15px 25px;
+}
